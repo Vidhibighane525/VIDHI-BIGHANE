@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Vidhi%20Bhigane&textBg=false" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Vidhi%20Bighane&textBg=false" />
 </p>
 
 <h3 align="center">🎓 B.Tech CSE (2027) | 💻 Backend & Full-Stack Developer</h3>
